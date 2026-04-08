@@ -1,2 +1,1 @@
 { "" "" "" "Parallel compilation is not licensed and has been disabled" {  } {  } 0 20028 "" 0 0 "Quartus II" 0 -1 0 ""}
-{ "" "" "" "Presettable and clearable registers converted to equivalent circuits with latches. Registers power-up to an undefined state, and DEVCLRn places the registers in an undefined state." {  } {  } 0 13004 "" 0 0 "Quartus II" 0 -1 0 ""}
